@@ -34,4 +34,4 @@ It is created under [AGPL-3.0+](https://www.gnu.org/licenses/).
 
 [The Seacry Team Workspace](https://seacry.slack.com)
 
-[
+
